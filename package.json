@@ -1,5 +1,5 @@
 {
-  "name": "clientnest-saas",
+  "name": "clientnest",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
@@ -7,16 +7,8 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "@supabase/auth-helpers-nextjs": "latest",
-    "@supabase/supabase-js": "latest",
-    "resend": "latest",
-    "clsx": "latest",
-    "@tailwindcss/forms": "latest",
-    "tailwindcss": "latest",
-    "postcss": "latest",
-    "autoprefixer": "latest"
+    "next": "15.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
